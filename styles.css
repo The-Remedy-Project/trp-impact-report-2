@@ -1586,6 +1586,15 @@ body {
     margin: 0 auto;
 }
 
+.closing-emblem {
+    margin-bottom: 2rem;
+}
+
+.closing-emblem img {
+    width: 80px;
+    height: auto;
+}
+
 .closing-intro {
     font-size: 1.5rem;
     font-weight: 400;
